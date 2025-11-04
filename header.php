@@ -13,11 +13,12 @@
                 <a href="index.php" class="nav-link">Home</a>
                 <a href="about.php" class="nav-link">About</a>
             </div>
-            <div class="nav-center">
-                <span>2301010138 - DAFFA DHIYA ULHAQ (GENAP)</span>
-            </div>
             <div class="nav-right">
                 <span>2301010097 - FAHMI SYARIEF HIDAYATULLAH (GANJIL)</span>
             </div>
+            <div class="nav-center">
+                <span>2301010138 - DAFFA DHIYA ULHAQ (GENAP)</span>
+            </div>
         </div>
+
     </nav>
