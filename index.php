@@ -8,6 +8,21 @@ include 'header.php';
 </div>
 
 <div class="container">
+     <div class="gallery-item">
+            <img src="images/jumeirah.jpg" alt="Jumeirah">
+            <div class="gallery-caption">Jumeirah, Abu Dhabi</div>
+        </div>
+
+        <div class="gallery-item">
+            <img src="images/newyork.jpg" alt="New York">
+            <div class="gallery-caption">Newyork, US</div>
+        </div>
+
+        <div class="gallery-item">
+            <img src="images/niagara.jpg" alt="Niagara">
+            <div class="gallery-caption">Niagara, Kanada (karangan anak narmada)</div>
+        </div>
+    
     <div class="gallery-grid">
         <div class="gallery-item">
             <img src="images/acropolis.jpg" alt="Acropolis">
@@ -38,22 +53,8 @@ include 'header.php';
             <img src="images/huayana.jpg" alt="Huayana">
             <div class="gallery-caption">Huayana, Peru</div>
         </div>
-
-        <div class="gallery-item">
-            <img src="images/jumeirah.jpg" alt="Jumeirah">
-            <div class="gallery-caption">Jumeirah, Abu Dhabi</div>
-        </div>
-
-        <div class="gallery-item">
-            <img src="images/newyork.jpg" alt="New York">
-            <div class="gallery-caption">Newyork, US</div>
-        </div>
-
-        <div class="gallery-item">
-            <img src="images/niagara.jpg" alt="Niagara">
-            <div class="gallery-caption">Niagara, Kanada (karangan anak narmada)</div>
-        </div>
     </div>
 </div>
 
 <?php include 'footer.php'; ?>
+
