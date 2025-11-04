@@ -4,7 +4,7 @@ include 'header.php';
 ?>
 
 <div class="hero-section">
-    <h1>Halaman ini dibuat oleh: 2301010003 - FAHMI SYARIEF HIDAYATULLAH (GANJIL)</h1>
+    <h1>Halaman ini dibuat oleh: 2301010003 - FAHMI SYARIEF HIDAYATULLAH GANTENG(GANJIL)</h1>
 </div>
 
 <div class="container">
@@ -36,5 +36,6 @@ include 'header.php';
         </div>
     </div>
 </div>
+
 
 <?php include 'footer.php'; ?>  
